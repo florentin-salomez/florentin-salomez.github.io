@@ -10,4 +10,4 @@ Abstract - A new control law of an input parallel output serie dc–ac multicell
 You can download the virtual poster about the article here:
 
 To cite this work:
-> F. Salomez, H. Pichon, Y. Lembeye and J. -C. Crébier, "PWM Strategy for the Cancellation of the Common Mode Noise Generated in a Multicell DC–AC Converter," in IEEE Transactions on Power Electronics, vol. 39, no. 9, pp. 11124-11133, Sept. 2024, doi: 10.1109/TPEL.2024.3406770
+> F. Salomez, H. Pichon, Y. Lembeye and J. -C. Crébier, "PWM Strategy for the Cancellation of the Common Mode Noise Generated in a Multicell DC–AC Converter," in IEEE Transactions on Power Electronics, vol. 39, no. 9, pp. 11124-11133, Sept. 2024, doi: [10.1109/TPEL.2024.3406770](https://www.doi.org/10.1109/TPEL.2024.3406770)
