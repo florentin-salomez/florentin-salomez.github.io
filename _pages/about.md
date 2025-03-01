@@ -17,9 +17,9 @@ How to achieve more sustainable power electronics? 🤔
 =====
 This is my current research question. 
 But first let's define some terms used here:
-- sustainable: in the sense of absolute sustainability. It means that I want to find ways to design power converters that are not better regarding the environnemental impacts but good enough regarding the planetary limits.
-- power electronics: the electrical converters used in our everyday life and in more specific equipments on electrical networks and grids.
-- more: this is a never ending journey I wish to contribute to.
+- **sustainable**: in the sense of *absolute sustainability*. It means that I want to find ways to design power converters that are not only *better* regarding environnemental impacts but *good enough* regarding the **planetary limits**.
+- **power electronics**: the electrical converters used in our everyday life and in more specific equipments on electrical networks and grids.
+- **more**: this is a never ending journey I wish to contribute to.
 
 Current research position 🧑‍🎓
 =====
