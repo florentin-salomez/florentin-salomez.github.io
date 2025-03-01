@@ -1,9 +1,9 @@
 ---
 title: "PWM Strategy for the Cancellation of the Common Mode Noise Generated in a Multi-Cell DC-AC Converter"
-excerpt: "Virtual Poster<br/><img src='/virtual_poster_PWMstrategy.gif'>"
+excerpt: "Virtual Poster<br/><img src='/images/virtual_poster_PWMstrategy.gif'>"
 collection: portfolio
 ---
-<img src='/virtual_poster_PWMstrategy.gif'>
+<img src='/imgaes/virtual_poster_PWMstrategy.gif'>
 
 Abstract - A new control law of an input parallel output serie dc–ac multicell converter is proposed to cancel the common-mode (CM) noise while keeping the differential-mode (DM) noise low. The control law called interleaved symmetrical unipolar respects the conditions studied and detailed in this article to achieve CM noise cancellation. The conditions are generalized whatever an even number of cells in series. The results are validated against experiments and show reduction of the CM choke volume in comparison to a conventional interleaved bipolar control law.
 
