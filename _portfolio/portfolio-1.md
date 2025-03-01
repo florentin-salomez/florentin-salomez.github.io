@@ -1,6 +1,6 @@
 ---
 title: "PWM Strategy for the Cancellation of the Common Mode Noise Generated in a Multi-Cell DC-AC Converter"
-excerpt: "Virtual Poster<br/><img src='/images/virtual_poster_PWMstrategy.gif'>"
+excerpt: "<img src='/images/virtual_poster_PWMstrategy_diapo1.PNG'>"
 collection: portfolio
 ---
 <img src='/images/virtual_poster_PWMstrategy.gif'>
